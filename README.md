@@ -20,3 +20,4 @@ https://www.postgresql.org/download/windows/
    SALARY         REAL  
 ); 
 6. Insert the data into db or you can directly download this project and add data through postman.
+7. When downloading this project dont forget to delete this file before importing it to your IDE.
